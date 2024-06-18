@@ -1,6 +1,6 @@
 # DeivyRivera.github.io
 Proyecto técnico
-@@
+
 <html>
 <body bgcolor="#93C963">
 <head>
@@ -116,5 +116,14 @@ Proyecto técnico
         </li>    
 
 
+<html>
+<body bgcolor="9C93E9">
+<head>
+<H1><font color="FCE1E1">TRITICO</font></H1>
+<h2>TRITICO Y CONTENIDO</h2>
+<img src ="D:\Deivy Rivera\1.png" height="600">
+<img src ="D:\Deivy Rivera\2.png" height="600"></center>
+<li><a href="D:\Deivy Rivera\gif.html">TRIMESTRE 1 </a></li>
+</body>
 
 </HTML>
