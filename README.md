@@ -1,7 +1,6 @@
+<html>
 # DeivyRivera.github.io
 Proyecto técnico
-
-<html>
 <body bgcolor="#93C963">
 <head>
 <meta charset="UTF-10">
