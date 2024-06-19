@@ -5,10 +5,7 @@ Proyecto técnico
 <head>
 <meta charset="UTF-10">
 <H1>
-<marquee BGCOLOR="#1CC185"><font color="#FFFBF0">PROYECTO TECNICO AREA INFORMATICA 2024 2025 Deivy Rivera Alvarado 3M </font></marquee>
-<H3>
-    <meta name="#1CB2C1" content="width=device-width, initial-scale=1.0">
-    <title>Proyecto 2024 2025</title>
+
     <style>
         body{
             margin: 0;
