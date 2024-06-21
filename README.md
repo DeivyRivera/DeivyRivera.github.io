@@ -60,7 +60,8 @@
 <body>
     <h1 align="center" style="color: #1FA382;">PROYECTO TECNICO AREA INFORMATICA 2024 2025 Deivy Rivera Alvarado 3M</h1>
     <center>
-        <img src="https://github.com/DeivyRivera/DeivyRivera.github.io/blob/main/5822_20170904060930.png" width="125" height="125" alt="Proyecto Logo">
+       ![Proyecto Logo](https://github.com/DeivyRivera/DeivyRivera.github.io/blob/main/5822_20170904060930.png)
+
     </center>
     <div class="menu-wrapper">
         <ul class="principal-menu">
